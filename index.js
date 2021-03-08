@@ -62,4 +62,4 @@ for (const file of eventsFiles) {
 }
 
 // Token
-client.login(config[env]['token']);
+client.login(config[env]['ODE4NTAxMDUzNzY2MzAzNzc0.YEY-gg.9kVDCKNa3HDT2oxZGB-oZR0OM00']);
